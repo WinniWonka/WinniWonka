@@ -4,8 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreaslie19/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6289671690312)
 
-[![](https://github-stats-extended.vercel.app/api?username=WinniWonka)](https://github.com/stats-organization/github-stats-extended)
-
 <p align="left">Languages and Tools:</p>
 <p align="left">
   <!-- HTML -->
